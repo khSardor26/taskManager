@@ -23,15 +23,8 @@ PostgreSQL
 Maven
 Lombok (if used)
 
-📂 Project Structure
-src/
- ├── controller/       # REST Controllers
- ├── service/          # Business logic
- ├── repository/       # Data access layer
- ├── entity/           # JPA entities
- ├── dto/              # Data Transfer Objects
- ├── exception/        # Custom & global exception handling
- └── TaskManagerApplication.java
+
+
 🗄️ Database Configuration
 
 Set environment variables:
