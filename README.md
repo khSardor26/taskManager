@@ -57,3 +57,4 @@ Backend practice
 Interview preparation
 Portfolio demonstration
 Understanding REST API development
+How the integration with SQL db works
