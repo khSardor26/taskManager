@@ -49,12 +49,4 @@ GET	/api/tasks	Get all tasks
 GET	/api/tasks/{id}	Get task by ID
 PUT	/api/tasks/{id}	Update task
 DELETE	/api/tasks/{id}	Delete task
-🎯 Purpose
 
-This project is designed for:
-
-Backend practice
-Interview preparation
-Portfolio demonstration
-Understanding REST API development
-How the integration with SQL db works
